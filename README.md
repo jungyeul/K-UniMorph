@@ -5,5 +5,5 @@ Eunkyul Leah Jo*, Kyuwon Kim*, Xihan Wu*, KyungTae Lim, Jungyeul Park, and Chulw
 
 * note: This repo contains the dataset used in the above paper for reproductivity. The *reivsed* UniMorph Korean is available at http://unimorph.github.io. 
 
----
+--
 Thu May  4 15:53:43 PDT 2023
